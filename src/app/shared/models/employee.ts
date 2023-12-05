@@ -4,6 +4,5 @@ export interface Employee {
   name: string;
   shift: string;
   office: string;
-  admission: string;
-  admission2: string;
+
 }

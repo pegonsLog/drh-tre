@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "folgas-garbo": {
+      "hosting": {
+        "drh-tre": [
+          "folgas-garbo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "folgas-garbo"
+  }
+}

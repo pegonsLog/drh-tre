@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "drh-tre",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
